@@ -34,12 +34,15 @@ The Clinic Appointment System is a user-facing application that allows patients 
 
 ### Clinic Management System
 
-https://github.com/harraz-shukri-dev/Clinic-System-Spring-Boot/blob/main/Architecture_Layer_Diagram.jpg
+
+![Architecture_Layer_Diagram](https://github.com/user-attachments/assets/ed4fe61e-70c2-41e2-ac39-628ebcf5761b)
+
 
 
 ### Clinic Appointment System
 
-https://github.com/harraz-shukri-dev/Clinic-System-Spring-Boot/blob/main/Architecture_Layer_Diagram.jpg
+
+![Architecture_Layer_Diagram](https://github.com/user-attachments/assets/389d797c-6ca3-4f92-833d-7e08dfb2dce6)
 
 
 ## Middleware RESTful Endpoints
