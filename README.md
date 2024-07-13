@@ -119,25 +119,25 @@ Database name - clinic
 Tables : 
 
 - Patients Table
-id (Primary Key)
-name
-ic_no (IC Number)
-age
-gender
-phone
-email
+id (Primary Key),
+name,
+ic_no (IC Number),
+age,
+gender,
+phone,
+email,
 created_at
 
 - Appointment Table
-id (Primary Key)
-patient_name
-patient_phone
-ic_no
-doctor_name
-appointment_date
-appointment_time
-purpose
-status
+id (Primary Key),
+patient_name,
+patient_phone,
+ic_no,
+doctor_name,
+appointment_date,
+appointment_time,
+purpose,
+status,
 created_at
 
 
